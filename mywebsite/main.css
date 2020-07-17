@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/62/66/55/12/700_FO62665512_485b9c3eea403c0e73488d3f8a7330db.jpg,700,612,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,562,jpg)/wall-murals-sea-or-ocean-water-surface-and-underwater.jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 50%;
+    opacity: 70%;
+}
+
+.title {
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    border-style: double;
+    border-color: gold;
+}
+
+.subt {
+    color: orangered;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: orangered;
+}
+
+*{
+    text-align: center;
+}
+
+.above {
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    border-style: dashed;
+    border-color: darkred;
+    padding: 10px;
+}
+
+.below {
+    color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    border-style: dashed;
+    border-color: lightgreen;
+    padding: 10px;
+}
